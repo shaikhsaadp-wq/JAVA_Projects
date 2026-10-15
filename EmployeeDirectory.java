@@ -19,6 +19,7 @@ class Employee {
     public String toString() {
         return id + " " + name + " " + department;
     }
+    
 }
 
 public class EmployeeDirectory {

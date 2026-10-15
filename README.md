@@ -18,15 +18,6 @@ This is a mini project developed using Java to demonstrate core Java programming
 - Basic programming logic
 - Exception handling (if applicable)
 
-## Project Structure
-```text
-Mini-Java-Project/
-├── src/
-│   └── Main.java
-├── README.md
-└── .gitignore
-```
-
 ## How to Run
 
 1. Install the Java Development Kit (JDK).
@@ -34,15 +25,6 @@ Mini-Java-Project/
 3. Open the terminal.
 4. Compile the Java file:
 
-   ```bash
-   javac src/Main.java
-   ```
-
-5. Run the program:
-
-   ```bash
-   java -cp src Main
-   ```
 
 ## Concepts Covered
 - Java fundamentals
@@ -51,7 +33,7 @@ Mini-Java-Project/
 - Exception handling (if applicable)
 
 ## Author
-Your Name
+Saad Shaikh
 
 ## Purpose
 This project was created for learning and practicing Java programming.
